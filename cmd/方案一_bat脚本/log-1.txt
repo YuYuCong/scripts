@@ -1,0 +1,74 @@
+测试开始时间 2017-09-17 11:41:57  
+1 www.pku.edu.cn  超时  
+2 www.ruc.edu.cn      最短 = 21ms，最长 = 23ms，平均 = 22ms
+3 www.tsinghua.edu.cn      最短 = 24ms，最长 = 29ms，平均 = 26ms
+4 www.njtu.edu.cn  超时  
+5 www.ustb.edu.cn  超时  
+6 www.cup.edu.cn      最短 = 25ms，最长 = 110ms，平均 = 46ms
+7 www.bupt.edu.cn      最短 = 23ms，最长 = 48ms，平均 = 33ms
+8 www.buct.edu.cn      最短 = 24ms，最长 = 27ms，平均 = 25ms
+9 www.cau.edu.cn      最短 = 24ms，最长 = 41ms，平均 = 28ms
+10 www.bjfu.edu.cn      最短 = 21ms，最长 = 34ms，平均 = 25ms
+11 www.bjucmp.edu.cn  超时  
+12 www.bnu.edu.cn      最短 = 36ms，最长 = 41ms，平均 = 38ms
+13 www.bfsu.edu.cn      最短 = 24ms，最长 = 27ms，平均 = 26ms
+14 www.blcu.edu.cn      最短 = 22ms，最长 = 25ms，平均 = 23ms
+15 www.uibe.edu.cn      最短 = 22ms，最长 = 26ms，平均 = 24ms
+16 www.cufe.edu.cn  超时  
+17 www.cupl.edu.cn      最短 = 23ms，最长 = 26ms，平均 = 23ms
+18 www.cuc.edu.cn      最短 = 24ms，最长 = 29ms，平均 = 25ms
+19 www.cafa.com.cn  超时  
+20 www.chntheatre.edu.cn      最短 = 16ms，最长 = 18ms，平均 = 17ms
+21 www.ccom.edu.cn  超时  
+22 www.nankai.edu.cn  超时  
+23 www.tju.edu.cn  超时  
+24 www.ncepubj.edu.cn  超时  
+25 www.dlut.edu.cn      最短 = 38ms，最长 = 175ms，平均 = 72ms
+26 www.neu.edu.cn      最短 = 35ms，最长 = 38ms，平均 = 36ms
+27 www.jlu.edu.cn      最短 = 38ms，最长 = 40ms，平均 = 39ms
+28 www.nenu.edu.cn      最短 = 39ms，最长 = 40ms，平均 = 39ms
+29 www.nefu.edu.cn      最短 = 46ms，最长 = 50ms，平均 = 48ms
+30 www.fudan.edu.cn      最短 = 20ms，最长 = 26ms，平均 = 21ms
+31 www.tongji.edu.cn  超时  
+32 www.sjtu.edu.cn      最短 = 20ms，最长 = 24ms，平均 = 21ms
+33 www.ecust.edu.cn      最短 = 22ms，最长 = 26ms，平均 = 23ms
+34 www.dhu.edu.cn  超时  
+35 www.ecnu.edu.cn      最短 = 19ms，最长 = 21ms，平均 = 20ms
+36 www.shisu.edu.cn      最短 = 20ms，最长 = 53ms，平均 = 29ms
+37 www.shufe.edu.cn      最短 = 74ms，最长 = 210ms，平均 = 144ms
+38 www.nju.edu.cn      最短 = 14ms，最长 = 27ms，平均 = 18ms
+39 www.seu.edu.cn      最短 = 14ms，最长 = 16ms，平均 = 14ms
+40 www.cumt.edu.cn      最短 = 22ms，最长 = 23ms，平均 = 22ms
+41 www.hhu.edu.cn  超时  
+42 www.sytu.edu.cn  超时  
+43 www.njau.edu.cn  超时  
+44 www.cpu.edu.cn  超时  
+45 www.zju.edu.cn  超时  
+46 www.hfut.edu.cn      最短 = 13ms，最长 = 20ms，平均 = 16ms
+47 www.xmu.edu.cn  超时  
+48 www.sdu.edu.cn  超时  
+49 www.ouc.edu.cn  超时  
+50 www.whu.edu.cn  超时  
+51 www.znufe.edu.cn      最短 = 4ms，最长 = 11ms，平均 = 7ms
+52 www.hust.edu.cn  超时  
+53 www.whut.edu.cn  超时  
+54 www.cug.edu.cn  超时  
+55 www.hzau.edu.cn  超时  
+56 www.ccnu.edu.cn  超时  
+57 www.csu.edu.cn      最短 = 10ms，最长 = 15ms，平均 = 12ms
+58 www.hnu.cn      最短 = 11ms，最长 = 18ms，平均 = 14ms
+59 www.sysu.edu.cn      最短 = 20ms，最长 = 24ms，平均 = 21ms
+60 www.scut.edu.cn      最短 = 20ms，最长 = 24ms，平均 = 22ms
+61 www.cqu.edu.cn      最短 = 21ms，最长 = 42ms，平均 = 27ms
+62 www.swnu.edu.cn  超时  
+63 www.scu.edu.cn      最短 = 27ms，最长 = 34ms，平均 = 30ms
+64 www.swjtu.edu.cn      最短 = 28ms，最长 = 33ms，平均 = 30ms
+65 www.uestc.edu.cn      最短 = 27ms，最长 = 270ms，平均 = 123ms
+66 www.swufe.edu.cn      最短 = 29ms，最长 = 439ms，平均 = 133ms
+67 www.xjtu.edu.cn  超时  
+68 www.xahu.edu.cn  超时  
+69 www.xidian.edu.cn      最短 = 39ms，最长 = 41ms，平均 = 39ms
+70 www.nwsuaf.edu.cn      最短 = 19ms，最长 = 24ms，平均 = 21ms
+71 www.snnu.edu.cn  超时  
+72 www.lzu.edu.cn  超时  
+测试结束时间 2017-09-17 11:52:50  
