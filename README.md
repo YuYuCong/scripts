@@ -4,9 +4,9 @@
 
 Created 2017.09.18 by William Yu; Last modified: 2018.07.26-V1.0.2
 
-Contact :[windmillyucong@163.com](mailto:windmillyucong@163.com)
+Contact: [windmillyucong@163.com](mailto:windmillyucong@163.com)
 
-Copyleft ! 2018 William Yu. Some Rights Reserved.
+Copyleft! 2018 William Yu. Some Rights Reserved.
 
 ---
 
