@@ -26,7 +26,7 @@ fi
 shutter -s -e -o '~/Pictures/blogimg/%y%m%d-%T.png'
 
 filename=`ls -t |awk 'NR==1 {print $NF}'`
-imgurl=${github_repositories_url%.git}/blob/master/${filename}
+imgurl="!["$filename"]("${github_repositories_url%.git}/blob/master/${filename}"?raw=true)"
 echo $imgurl |xsel -i -b
 
 git add -A
