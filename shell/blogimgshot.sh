@@ -2,7 +2,7 @@
 
 github_repositories_url='https://github.com/YuYuCong/BlogImg.git'
 github_user='YuYuCong'
-github_pwd='不告诉你'
+github_pwd=''
 
 if [ ! -d ~/bin ];then
     mkdir ~/bin
